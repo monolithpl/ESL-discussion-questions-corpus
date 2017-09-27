@@ -1,0 +1,2688 @@
+3-GRAMS
+--------------------
+What do you	5016
+Do you think	4867
+Have you ever	3704
+If you could	3127
+What is the	2383
+What is your	1731
+How do you	1466
+If you had	1442
+If you were	1370
+What are the	1324
+Do you have	1274
+Do you like	1197
+What s the	1082
+What are some	1077
+Why do you	965
+What would you	957
+Do you know	953
+Would you like	926
+What kind of	831
+How often do	774
+Why or why	762
+What s your	757
+What was the	670
+Would you rather	600
+Do you believe	589
+How would you	541
+Do you ever	521
+Do you agree	497
+When was the	478
+Do you prefer	476
+Are there any	441
+What did you	413
+What are your	357
+Would you ever	355
+Who is the	353
+Are you a	350
+If so what	314
+Where do you	306
+What was your	301
+Who do you	300
+Who is your	285
+What is a	282
+What kinds of	243
+Can you think	242
+How did you	242
+When did you	230
+Is there a	226
+How important is	224
+Do you enjoy	218
+Why do people	215
+Do you feel	214
+What are you	204
+Which do you	203
+What is something	202
+When do you	202
+Would you be	190
+What comes to	186
+In what ways	184
+Do you usually	173
+Does your country	173
+Where did you	173
+Why is it	173
+If so how	164
+How much do	162
+What images spring	159
+How can you	156
+Can you tell	155
+Are you good	153
+Can you name	153
+What is one	150
+Why did you	144
+Would you prefer	144
+What sort of	142
+At what age	140
+What would be	140
+Can you describe	138
+Did you have	137
+Do you always	137
+What springs to	136
+What does it	131
+Why why not	128
+What makes you	127
+What type of	127
+Are you afraid	125
+Is there any	122
+Do you use	119
+Who are the	118
+Do you get	117
+<NUMBER> years from	115
+Did you ever	115
+Where would you	115
+Is there anything	112
+In your opinion	111
+Would you want	110
+How much does	108
+Do you often	103
+If yes what	102
+Do you eat	100
+Is it possible	100
+What s something	99
+Is it better	95
+What was it	95
+Do you consider	94
+Where is the	94
+How many times	93
+Do you want	92
+How much money	92
+What makes a	90
+Do you read	89
+Do you remember	89
+What s one	89
+If you are	87
+What does your	87
+What can you	86
+What things about	86
+How much time	85
+What are they	85
+What have you	85
+Have you been	84
+Why do some	83
+Do you play	82
+Who would you	82
+Do you find	80
+What time do	79
+Do you worry	77
+If you knew	76
+In what way	76
+Why do we	75
+How different is	73
+How long do	73
+How old were	73
+If so why	73
+When you were	73
+To what extent	72
+Who was your	72
+Would you consider	72
+Is it important	71
+What if you	71
+How long does	70
+How many hours	70
+Is it a	70
+What does the	70
+What is it	70
+Are there many	69
+How long have	69
+In your country	69
+What could you	69
+What does this	68
+What will you	68
+When have you	67
+If you don	66
+If you have	66
+How do people	64
+What s a	64
+What can be	63
+What do people	63
+When you are	63
+Which is more	63
+Do you take	62
+Is it easy	62
+Why don t	62
+Should there be	61
+What questions would	61
+Who are some	61
+How can we	60
+What would the	60
+Do you go	59
+Do you wish	59
+Tell me about	59
+What were your	59
+Do you still	58
+How would your	58
+Some people say	58
+What advice would	58
+What should be	58
+Are you interested	57
+Are you more	57
+Do you watch	57
+How long did	57
+What things do	57
+What types of	57
+Who did you	57
+How important are	55
+Did you enjoy	54
+Do you try	54
+Do you give	53
+Which is better	53
+Which would you	53
+How many people	52
+If not why	52
+What has been	52
+Can you remember	51
+Have you seen	51
+How about the	50
+If you found	50
+What would happen	50
+Who was the	50
+How did it	49
+How have you	49
+Which of the	49
+How many different	48
+Who s the	48
+How has the	47
+When is it	47
+If you went	46
+What annoys you	46
+Which is the	46
+Do you do	45
+What are three	45
+What would your	45
+Why do they	45
+Why was it	45
+Are you happy	44
+Did you like	44
+Have you or	44
+Where are you	44
+Would you accept	44
+Can you give	43
+Do you live	43
+Have you heard	43
+If not would	43
+How does the	42
+How would the	42
+What were the	42
+Describe the situation	41
+Have you read	41
+How has your	41
+How is the	41
+What do they	41
+What do your	41
+What were you	41
+What would it	41
+When were you	41
+<NUMBER> years What	40
+Do you own	40
+If you wanted	40
+What is an	40
+<NUMBER> <NUMBER> to	39
+Do you make	39
+Do you wear	39
+If not what	39
+Someone once said	39
+<NUMBER> to <NUMBER>	38
+How are you	38
+How does your	38
+How much of	38
+Do you buy	37
+Do you celebrate	37
+Do you drink	37
+Do you sometimes	37
+Have you had	37
+How about a	37
+Who are your	37
+About how much	36
+Do people in	36
+Do your parents	36
+How do they	36
+If you won	36
+What images of	36
+Which of your	36
+Who s your	36
+Why would you	36
+Can you be	35
+Can you talk	35
+If so when	35
+On a scale	35
+What if anything	35
+What things are	35
+Would you go	35
+Are you an	34
+Did you get	34
+Should it be	34
+What happens to	34
+Where is your	34
+Did your parents	33
+Do you need	33
+Has anyone ever	33
+How is your	33
+If so which	33
+If your parents	33
+What should you	33
+How about in	32
+How much did	32
+How much is	32
+If there was	32
+If you and	32
+If you saw	32
+Is there something	32
+About how many	31
+Do you keep	31
+Does your family	31
+Give an example	31
+How many children	31
+Is it common	31
+What would life	31
+Would it be	31
+<NUMBER> year old	30
+Can you explain	30
+Do you trust	30
+How does it	30
+Is it ever	30
+What can we	30
+What foods do	30
+What sports do	30
+Where were you	30
+Why are they	30
+Do you or	29
+Do you see	29
+How is it	29
+How many of	29
+If yes how	29
+Is it more	29
+Tell your group	29
+What should the	29
+Whom do you	29
+Would you describe	29
+Are you going	28
+Do you listen	28
+Have you tried	28
+How much would	28
+How was it	28
+If so do	28
+If so where	28
+If so would	28
+In some countries	28
+What was a	28
+Why are some	28
+Do you care	27
+How are they	27
+How long should	27
+Or do you	27
+What part of	27
+What three adjectives	27
+Why haven t	27
+Would you give	27
+Do you follow	26
+How have your	26
+How much should	26
+How well do	26
+If so who	26
+In other words	26
+Under what circumstances	26
+What were some	26
+When are you	26
+Why are you	26
+Why is this	26
+Why isn t	26
+Would you marry	26
+Would you take	26
+At what time	25
+How about your	25
+How can the	25
+How long is	25
+How many days	25
+How old are	25
+If so tell	25
+Is this a	25
+Is your country	25
+What food do	25
+What qualities do	25
+When is the	25
+Where are some	25
+Who in your	25
+Would you buy	25
+<NUMBER> years old	24
+Are you the	24
+Did you go	24
+Do you tend	24
+How has technology	24
+Is there an	24
+What does a	24
+What problems do	24
+What s it	24
+What things can	24
+What would make	24
+Which is your	24
+<NUMBER> would you	23
+Could you live	23
+Do you look	23
+Explain the situation	23
+How could you	23
+How did your	23
+If yes which	23
+Is there such	23
+What did they	23
+What makes them	23
+What one thing	23
+What will the	23
+Who are you	23
+Are there some	22
+Are your parents	22
+Does it annoy	22
+How important do	22
+In what situations	22
+Is there anyone	22
+Of all the	22
+Some people think	22
+What is more	22
+Which hobbies are	22
+Who taught you	22
+Why are there	22
+Why do so	22
+Would you have	22
+<NUMBER> <NUMBER> would	21
+As a child	21
+Can you do	21
+Do you smoke	21
+How did they	21
+I don t	21
+If there is	21
+If your life	21
+Is it difficult	21
+Is it the	21
+Should children be	21
+There is a	21
+What are five	21
+What changes would	21
+What do the	21
+Where s your	21
+Why is there	21
+Will you ever	21
+Would you do	21
+Would you try	21
+<NUMBER> Do you	20
+Are you concerned	20
+Are you still	20
+Are you worried	20
+Do you pay	20
+Do you put	20
+Do you regularly	20
+Do you sleep	20
+Do you spend	20
+Do you support	20
+Do you work	20
+Give some examples	20
+How did the	20
+How does a	20
+If a person	20
+If you re	20
+Should people be	20
+Was there ever	20
+Were you a	20
+What animal do	20
+What s more	20
+When and where	20
+Where and when	20
+Would it matter	20
+<NUMBER> years How	19
+Are you ever	19
+Can you imagine	19
+Do you and	19
+Do you tell	19
+Explain your opinion	19
+How can a	19
+How many languages	19
+If so did	19
+If so in	19
+If yes please	19
+Tell us about	19
+What can a	19
+What colors do	19
+What did your	19
+What motivates you	19
+Which is worse	19
+Why can t	19
+Would you feel	19
+<NUMBER> <NUMBER> years	18
+Can you play	18
+Do they have	18
+Do you expect	18
+Do you save	18
+How do the	18
+How do your	18
+How old do	18
+How will you	18
+If you discovered	18
+Is it good	18
+Is there much	18
+What about the	18
+What animals do	18
+What are two	18
+What percentage of	18
+What piece of	18
+What stresses you	18
+What time of	18
+What will happen	18
+Where have you	18
+Who should be	18
+Whom would you	18
+Why is the	18
+Would you let	18
+You have the	18
+<NUMBER> <NUMBER> for	17
+Do you mind	17
+How good are	17
+How much are	17
+If no why	17
+If one of	17
+If there were	17
+
+4-GRAMS
+-----------------------
+What do you think	2931
+If you had to	1122
+Would you like to	843
+Why or why not	757
+How often do you	751
+Have you ever been	711
+Do you think that	709
+Why do you think	700
+What is your favorite	681
+If you were to	661
+If you could have	633
+What do you know	560
+Do you think it	536
+Do you have a	517
+What is the most	514
+What is the best	463
+When was the last	438
+What would you do	423
+Have you ever had	389
+What do you do	375
+Do you have any	356
+Do you like to	356
+How do you feel	335
+What s your favorite	332
+Do you think the	301
+Do you know anyone	282
+Do you believe in	275
+What s the best	273
+Do you think there	262
+If you could be	259
+What do you like	254
+Can you think of	242
+What would you like	238
+Do you think people	223
+What is your opinion	219
+What are the advantages	217
+Do you think you	216
+What s the most	206
+How do you think	202
+What are some of	199
+If you could change	191
+Would you rather be	188
+What comes to mind	186
+What was the last	176
+Have you ever seen	171
+Who is your favorite	166
+What are some things	160
+Do you prefer to	159
+What images spring to	159
+How much do you	152
+What did you do	148
+What s the difference	146
+Are you good at	143
+Does your country have	143
+Do you believe that	140
+What is the difference	140
+What springs to mind	136
+Who is the most	132
+If you could choose	124
+Do you know any	122
+What do you usually	118
+Who do you think	118
+<NUMBER> years from now	114
+Do you agree with	114
+Why do you like	114
+Would you prefer to	114
+If you were a	113
+Do you think a	112
+How would you describe	112
+What is the worst	111
+How would you feel	109
+Do you know how	108
+Do you think your	105
+What are the good	104
+What was the most	104
+Are you afraid of	103
+If you could go	102
+What was the best	102
+Would you be willing	102
+What is something that	99
+Do you know of	98
+What is your favourite	96
+Have you ever tried	93
+Can you tell me	91
+What are the most	90
+Is it better to	89
+What is your idea	89
+Do you think we	88
+What are the differences	87
+What does it mean	86
+Who are the most	84
+Would you want to	83
+Would you rather have	82
+If you could make	81
+Would you ever consider	80
+What is something you	79
+Where did you go	79
+What was your favorite	78
+What s your favourite	77
+Do you worry about	75
+If you had the	75
+Do you agree or	74
+If you could live	74
+What time do you	74
+What s the worst	72
+What would be the	72
+Do you think this	71
+What do you want	71
+If you had a	69
+When did you last	69
+How old were you	68
+When did you first	68
+Which do you prefer	68
+Do you know the	67
+What are the pros	67
+Why do some people	67
+If you don t	66
+At what age do	65
+Do you think they	65
+Do you want to	65
+What is your most	65
+What was the worst	65
+How important is it	64
+How long do you	64
+How long does it	64
+Is it possible to	64
+What can you do	64
+Have you ever taken	63
+How much does it	63
+What are some ways	62
+What can be done	62
+How long have you	61
+What questions would you	61
+Which do you think	61
+Do you like the	60
+What are some good	60
+What is the biggest	60
+What kind of food	60
+If you could give	59
+If you could take	59
+Where do you usually	59
+Do you know what	58
+How do you know	58
+What advice would you	58
+What are the best	58
+Are you interested in	57
+Have you ever gone	57
+How did you feel	57
+Do you consider yourself	56
+Have you ever eaten	56
+What is one thing	56
+What kind of music	56
+What could you do	55
+Have you ever felt	54
+Have you ever used	54
+How much time do	54
+Are you a good	53
+If you were given	53
+What does this mean	53
+What things do you	53
+Do you know someone	52
+How would you define	52
+What is the one	52
+What is your biggest	52
+Have you ever bought	51
+Have you ever played	51
+Is it important to	51
+Did you have a	50
+Do you try to	50
+Have you ever done	50
+Have you ever experienced	50
+Have you ever met	50
+In what ways do	50
+What kind of people	50
+What kinds of things	50
+If you could eliminate	49
+What would you say	49
+Why did you choose	49
+What s something you	48
+Have you ever made	47
+Have you ever worked	47
+If you could own	47
+What are the disadvantages	47
+When you were a	47
+Where do you think	47
+How many times have	46
+If you could spend	46
+Do you wish you	45
+If so what do	45
+If so what is	45
+Can you describe your	44
+Do you feel that	44
+Do you have to	44
+Do you like your	44
+Have you ever broken	44
+In your opinion what	44
+Where would you like	44
+Have you ever given	43
+Have you ever gotten	43
+What is the greatest	43
+Which is more important	43
+If not would you	42
+What is the first	42
+What is the strangest	42
+What will you do	42
+Can you name some	41
+How do you get	41
+What is your best	41
+Some people say that	40
+What are the main	40
+Do you ever think	39
+How would the world	39
+Is there anything you	39
+To what extent do	39
+What is one of	39
+What would happen if	39
+Who is your favourite	39
+Do you ever get	38
+Do you ever have	38
+Do you have an	38
+Have you ever visited	38
+How did you get	38
+How much money do	38
+If you could only	38
+If you were going	38
+If you were the	38
+Are you happy with	37
+Do you think children	37
+If you could do	37
+What would the world	37
+How do you react	36
+What s your opinion	36
+Can you tell about	35
+Do you know anybody	35
+Have you heard of	35
+How do you like	35
+How would you like	35
+If you wanted to	35
+What are the benefits	35
+What s the biggest	35
+What was your first	35
+What would you think	35
+Would you rather go	35
+Did you have any	34
+Do you find it	34
+How would you react	34
+If not why not	34
+If so what did	34
+Is it easy to	34
+What are your favorite	34
+What are your favourite	34
+What is your greatest	34
+What should be done	34
+What are some common	33
+What s your most	33
+What was your best	33
+Which do you like	33
+Can you describe the	32
+Can you talk about	32
+Do you go to	32
+Do you think all	32
+Do you think men	32
+How do you make	32
+If you could ask	32
+In what ways are	32
+What do you wish	32
+Where is the best	32
+Who is the person	32
+Why is it that	32
+Do people in your	31
+Do you agree that	31
+Do you believe there	31
+How would you respond	31
+How would your life	31
+If you were on	31
+What are the biggest	31
+What are the qualities	31
+What are you most	31
+What did you think	31
+What do you eat	31
+What was it like	31
+What would be your	31
+Who is the greatest	31
+Why was it so	31
+Would you rather live	31
+Have you ever fallen	30
+Have you ever thought	30
+If so what kind	30
+What kind of person	30
+What makes you feel	30
+What sort of things	30
+What sports do you	30
+What would life be	30
+Why is it so	30
+Did you have to	29
+Have you ever ridden	29
+How do you deal	29
+How do you usually	29
+How important is the	29
+What do you need	29
+What do you understand	29
+What is the longest	29
+What kind of things	29
+When do you think	29
+Would you like a	29
+Are there any foods	28
+Do you ever go	28
+Do you use a	28
+Have you been to	28
+How many hours a	28
+If you could keep	28
+Is it a good	28
+Is there a difference	28
+What are the different	28
+What are your thoughts	28
+What is your dream	28
+When do you feel	28
+Who is your best	28
+Are you going to	27
+Do you live in	27
+Do you play any	27
+Do you think animals	27
+Do you think women	27
+Have you ever called	27
+Have you ever cheated	27
+Have you ever dreamt	27
+Have you ever known	27
+If so do you	27
+If you could teach	27
+On a scale of	27
+What do you say	27
+What foods do you	27
+What makes a good	27
+When was the first	27
+Which of the following	27
+Who would you like	27
+Why haven t you	27
+Are there any special	26
+Do you ever feel	26
+Do you get along	26
+Have you read any	26
+If you could invent	26
+If you could read	26
+If you went to	26
+If you were offered	26
+Is it possible for	26
+What are you going	26
+What do you consider	26
+What do you hope	26
+What has been your	26
+What s your least	26
+At what age should	25
+Do you think everyone	25
+Have you ever lost	25
+Have you ever read	25
+How well do you	25
+If so how did	25
+If so would you	25
+If you were in	25
+What are the names	25
+What is the funniest	25
+What were your favorite	25
+What would it be	25
+Where would you go	25
+Why don t you	25
+Do you feel you	24
+Have you ever received	24
+If you and your	24
+If you were asked	24
+If you were stranded	24
+What do you remember	24
+What food do you	24
+What is the meaning	24
+What qualities do you	24
+What s the color	24
+What was your worst	24
+Who s your favorite	24
+Why is it important	24
+<NUMBER> to <NUMBER> how	23
+Do you listen to	23
+Do you tend to	23
+Do you think some	23
+How do you define	23
+How long did it	23
+What are your feelings	23
+What do you have	23
+What has been the	23
+What is your worst	23
+What s one of	23
+What s the first	23
+What was your most	23
+Where do you go	23
+Which would you prefer	23
+Who was your favorite	23
+Would you describe yourself	23
+Can you describe a	22
+Do you ever give	22
+Does it annoy you	22
+Have you ever considered	22
+How important do you	22
+If so what was	22
+If you could travel	22
+If you knew that	22
+If you won a	22
+What do you look	22
+What do you most	22
+What do you use	22
+What have you done	22
+What s the strangest	22
+What was the first	22
+Where do you want	22
+Who do you usually	22
+Why do you want	22
+Can you remember the	21
+Do you know anything	21
+Do you like watching	21
+Do you think governments	21
+Does your family have	21
+Have you ever helped	21
+How long did you	21
+How much of a	21
+If so how often	21
+If you could bring	21
+If you could relive	21
+If you had been	21
+If you were able	21
+In your opinion is	21
+Is there something you	21
+Is there such a	21
+What annoys you about	21
+What did you have	21
+What did you like	21
+What do you associate	21
+What is the craziest	21
+What is the scariest	21
+What is your attitude	21
+What kind of clothes	21
+What s it like	21
+What should be the	21
+Which hobbies are the	21
+Who did you go	21
+Who do you know	21
+Why do so many	21
+Would you marry someone	21
+<NUMBER> <NUMBER> would you	20
+Are you a member	20
+Did you go to	20
+Did you like it	20
+Do you believe the	20
+Do you remember your	20
+Have you ever heard	20
+Have you ever told	20
+Have you ever walked	20
+Have you ever witnessed	20
+Have you or anyone	20
+How much money did	20
+How much would you	20
+If you found out	20
+Is it easy for	20
+What animal do you	20
+What annoys you most	20
+What did you eat	20
+What do they do	20
+What is more important	20
+What is the last	20
+What is your earliest	20
+What s one thing	20
+What should you do	20
+When did you start	20
+Who are some famous	20
+Who is the best	20
+Do you ever buy	19
+Do you give money	19
+Do you like it	19
+Do you like reading	19
+Do you think most	19
+Have you ever wanted	19
+If so in what	19
+If you had an	19
+If you have a	19
+In your country do	19
+Is there anything that	19
+Is this a good	19
+What are the dangers	19
+What are you looking	19
+What can we do	19
+What is a good	19
+What kinds of people	19
+Where is your favorite	19
+Why are some people	19
+Would you go to	19
+Would you want your	19
+Can you name a	18
+Can you name any	18
+Did you enjoy it	18
+Do you always eat	18
+Do you and your	18
+Do you enjoy shopping	18
+Do you have more	18
+Do you like going	18
+Do you own any	18
+Do you think aliens	18
+Do you think being	18
+Do you think life	18
+Do you think our	18
+Have you ever changed	18
+Have you ever found	18
+Have you ever watched	18
+Have you had any	18
+Have you seen any	18
+How did you meet	18
+How much did you	18
+How old do you	18
+If you could put	18
+In what way are	18
+Is it common for	18
+What are the three	18
+What are three things	18
+What do you feel	18
+What do you value	18
+What is the hardest	18
+What is the purpose	18
+What s the last	18
+What three adjectives would	18
+What was your favourite	18
+What would you most	18
+Where are you going	18
+Which is the most	18
+Who are your favorite	18
+Who was your first	18
+Why do you find	18
+Would you be able	18
+Are you more of	17
+Do you ever use	17
+Do you own a	17
+Do you think humans	17
+Do you think scientists	17
+Do you think these	17
+Have you ever cried	17
+Have you ever got	17
+How do you explain	17
+How good are you	17
+How has technology changed	17
+How many of your	17
+
+5-GRAMS
+------------------------
+What do you think of	1125
+What do you know about	536
+What do you think about	524
+When was the last time	425
+What would you do if	294
+Do you think it is	250
+What do you think is	243
+Do you know anyone who	233
+Do you think it s	215
+Have you ever been to	209
+What would you like to	207
+How do you feel about	206
+Would you like to be	204
+If you had to name	197
+What comes to mind when	186
+If you had to choose	175
+Why do you think so	173
+Have you ever had a	172
+What are some of the	171
+What images spring to mind	159
+What is the best thing	153
+What is your opinion of	136
+What springs to mind when	136
+What are the advantages and	134
+What s the difference between	134
+What is the difference between	132
+What do you think the	125
+If you were to name	122
+If you could change one	113
+Have you ever been in	106
+What do you think are	106
+How often do you go	105
+Would you be willing to	102
+Do you think there is	100
+If you were to be	99
+What do you like to	98
+Have you ever seen a	94
+Can you think of any	93
+How often do you eat	90
+What is your idea of	89
+Do you have a favorite	88
+What are the good things	88
+Would you like to work	87
+What do you do when	86
+What are the differences between	84
+Would you like to visit	83
+How would you feel if	81
+Why do you think this	79
+What is the best way	78
+What do you do to	77
+If you could have a	76
+What are some things that	76
+Who are the most famous	76
+Why do you think people	75
+Would you like to go	75
+Does your country have good	74
+If you could have one	74
+What do you usually do	73
+Do you agree or disagree	72
+Do you know how to	72
+If you could have any	72
+If you had to pick	72
+What are the advantages of	72
+Do you know of any	71
+Would you like to have	71
+What s the best way	70
+How do you feel when	68
+Do you think that the	67
+If you could have been	67
+What are the pros and	66
+What is the most important	65
+Why do you like it	65
+Can you tell me about	62
+Do you think there are	62
+<NUMBER> years from now Does	60
+How long does it take	60
+If you could go back	60
+What does it mean to	59
+What advice would you give	58
+Have you ever had to	57
+Have you ever been on	55
+How much does it cost	55
+What are some things you	55
+Who do you think is	55
+What questions would you like	54
+How much time do you	53
+If you could have the	53
+What do you think when	52
+What is something that you	52
+How old were you when	51
+If you had to describe	51
+What can be done to	50
+What do you do if	50
+Do you think this is	49
+What do you like about	49
+If you could be a	48
+Would you like to live	48
+Have you ever tried to	47
+Why do you think some	47
+Would you rather be a	47
+Do you like to eat	46
+Do you think there should	46
+How many times have you	45
+How often do you get	45
+If you had to be	45
+What kind of music do	45
+What s the best thing	45
+In what ways do you	44
+Where would you like to	44
+Do you know someone who	43
+How would you describe your	43
+If so what do you	43
+When you were a child	43
+Can you think of some	42
+If you had to have	41
+What can you do to	41
+What do you think you	41
+Which do you think is	41
+Do you think people should	40
+How often do you read	39
+If you were to have	39
+What do you like most	39
+What is one thing you	39
+Why do you think that	39
+What do you want to	38
+How much money do you	37
+If you could be the	37
+How important is it to	36
+If you could eliminate one	36
+What do you think it	36
+At what age do you	35
+If you were going to	35
+What was the last thing	35
+What would the world be	35
+Do you think you are	34
+If you could take a	34
+To what extent do you	34
+What do you think would	34
+Do you believe in ghosts	33
+Do you have a favourite	33
+Do you know anybody who	33
+How would you describe the	33
+If you could be any	33
+What kind of food do	33
+What was the last news	33
+Do you think people who	32
+How often do you use	32
+If so what did you	32
+If you could change anything	32
+If you could spend one	32
+What is your favorite kind	32
+Where is the best place	32
+Have you ever had an	31
+How often do you think	31
+What is the most expensive	31
+Can you think of a	30
+If you could choose the	30
+If you had to eliminate	30
+What do you think this	30
+What kinds of things do	30
+What would life be like	30
+Do you like to watch	29
+How do you deal with	29
+How much do you think	29
+If you had to give	29
+What is the most annoying	29
+What is the most difficult	29
+What is the one thing	29
+Do you think it would	28
+Have you ever taken a	28
+How do you think the	28
+How long do you think	28
+How would you like to	28
+What is one of your	28
+What is the first thing	28
+What is your favorite thing	28
+Would you rather have a	28
+Do you agree with the	27
+Does your country have a	27
+How would the world be	27
+If you could live anywhere	27
+If you were to describe	27
+If you were to pick	27
+What are some of your	27
+What are the disadvantages of	27
+What do you think should	27
+What is the worst thing	27
+When was the first time	27
+Why do you think there	27
+Do you agree with this	26
+Have you ever had any	26
+How would you respond if	26
+If you could make one	26
+If you had to spend	26
+What are you going to	26
+What could you do on	26
+What do you do with	26
+What time do you usually	26
+Who would you like to	26
+Do people in your country	25
+Do you think that it	25
+Do you think they are	25
+Do you think we should	25
+How do you like to	25
+How often do you have	25
+How would you react if	25
+What are the names of	25
+What do you think a	25
+What do you understand by	25
+What is your favorite holiday	25
+Who is your best friend	25
+Do you think you would	24
+If you could have anyone	24
+What are the benefits of	24
+What are the best and	24
+What are the most important	24
+What did you do last	24
+What is the meaning of	24
+What is your favorite movie	24
+What kind of people do	24
+What s the color for	24
+What s your least favorite	24
+Why do you think it	24
+Are there any foods that	23
+Do you have any pets	23
+Do you think you have	23
+Have you ever been a	23
+Have you ever made a	23
+Have you ever visited a	23
+How much do you spend	23
+How often do you see	23
+If not would you like	23
+If so what is the	23
+If you could keep only	23
+What are the most common	23
+What is your favorite food	23
+What is your opinion on	23
+What s your opinion of	23
+Would you describe yourself as	23
+<NUMBER> years from now What	22
+Do you believe in the	22
+Do you have a good	22
+Do you think that some	22
+Does it annoy you when	22
+How do you feel if	22
+How important do you think	22
+How long did it take	22
+How would you feel about	22
+How would your life be	22
+If you could have changed	22
+If you had to lose	22
+If you were stranded on	22
+Is there a difference between	22
+What do you think will	22
+What is the most popular	22
+Who is the most famous	22
+Why do you think the	22
+Would you like to see	22
+Do you think you can	21
+Do you think your country	21
+Have you ever gotten a	21
+How long have you been	21
+If you could read the	21
+If you were able to	21
+If you were to choose	21
+Is there such a thing	21
+What are your thoughts on	21
+What could you do to	21
+What do you associate with	21
+What do you look for	21
+What do you think your	21
+What is the most dangerous	21
+What s the most expensive	21
+What would be the advantages	21
+Where do you want to	21
+Would you like to spend	21
+Are you a member of	20
+Do you know anyone with	20
+Do you know anything about	20
+Do you think that people	20
+Do you think that you	20
+Do you think the world	20
+Do you think you will	20
+Have you ever broken a	20
+How often do you exercise	20
+If so what is it	20
+If you could go anywhere	20
+If you could make a	20
+If you went to a	20
+If you were to die	20
+Is it better to be	20
+What do you need to	20
+What is your biggest fear	20
+What s one of your	20
+What s the most important	20
+What will you do if	20
+Why do you want to	20
+Would you prefer to be	20
+Would you rather go to	20
+Do you believe there is	19
+Do you have any friends	19
+Do you live in a	19
+Do you think that there	19
+Do you think there ll	19
+Do you think you could	19
+Have you ever met a	19
+Have you or anyone you	19
+If so how did you	19
+If so what kind of	19
+If you had the chance	19
+If you had the opportunity	19
+If you had to select	19
+What animal do you think	19
+What do you like best	19
+What is the most beautiful	19
+What is the most embarrassing	19
+What s your favorite kind	19
+What would you think if	19
+Who did you go with	19
+Why is it important to	19
+Would you like a job	19
+Would you like to take	19
+Would you rather live in	19
+At what age do people	18
+Can you talk about three	18
+Do you agree with him	18
+Do you believe in love	18
+Do you give money to	18
+Does your country have any	18
+Have you ever gone to	18
+How important is it for	18
+How much do you usually	18
+If you could choose one	18
+If you could give one	18
+If you had to change	18
+If you were to identify	18
+What annoys you most about	18
+What are some ways that	18
+What are the qualities of	18
+What do you do in	18
+What do you remember about	18
+What do you think people	18
+What is the purpose of	18
+What kind of things do	18
+What s your favorite color	18
+What was the last book	18
+What was your favorite subject	18
+Who is your favorite actor	18
+Would you be able to	18
+Would you prefer to live	18
+Do you feel you have	17
+Do you like to go	17
+Do you worry about the	17
+Have you ever been caught	17
+Have you ever been the	17
+Have you ever given money	17
+How do you know if	17
+How do you react when	17
+How much money did you	17
+If you could have prevented	17
+If you could in retrospect	17
+If you could own any	17
+If you had to cancel	17
+In what way are you	17
+In your opinion what is	17
+Is there a lot of	17
+Is there any kind of	17
+What adjectives would you use	17
+What can a parent do	17
+What did you have for	17
+What is your best memory	17
+What is your definition of	17
+What is your image of	17
+What s the first thing	17
+What was your first job	17
+Which do you like better	17
+Who is the person you	17
+Would you like to try	17
+Do you ever give money	16
+Do you ever go to	16
+Do you know anyone that	16
+Do you prefer fiction or	16
+Do you prefer to go	16
+Do you think a person	16
+Do you think people will	16
+Do you think that a	16
+Do you think that your	16
+Do you think the news	16
+Do you think there s	16
+Have you ever cheated on	16
+Have you ever felt that	16
+Have you ever known anyone	16
+Have you ever received a	16
+Have you ever seen an	16
+Have you ever used a	16
+How good are you at	16
+How many hours a week	16
+If you could be invisible	16
+If you could play any	16
+If you could teach your	16
+If you had to rename	16
+Was there ever a time	16
+What are some jobs that	16
+What do you do on	16
+What do you hope to	16
+What do you value most	16
+What is more important to	16
+What is the name of	16
+What is the role of	16
+What is your opinion about	16
+What was the last movie	16
+Which country do you think	16
+Which hobbies are the most	16
+Why do you think they	16
+Would you like to study	16
+About how much do you	15
+Are you interested in the	15
+Are you more of a	15
+Can you describe your first	15
+Can you think of an	15
+Do you believe that the	15
+Do you like going to	15
+Do you like looking at	15
+Do you like to read	15
+Have you ever bought a	15
+Have you ever ridden a	15
+Have you ever told a	15
+Have you ever used the	15
+Have you ever wanted to	15
+How do you get to	15
+How often do you check	15
+How often do you watch	15
+If you could choose any	15
+If you could have witnessed	15
+If you could rid the	15
+If you could wake up	15
+If you had to marry	15
+If you had to repeat	15
+If you were given a	15
+If you were to say	15
+In what ways are you	15
+Tell your group about them	15
+What animals do you think	15
+What are your feelings about	15
+What do you do for	15
+What if anything do you	15
+What is the most valuable	15
+What is the weather like	15
+What is your favorite way	15
+What s one thing you	15
+What s your all time	15
+What sports do you like	15
+What three adjectives would you	15
+What was the most interesting	15
+What would you say to	15
+Who do you know who	15
+Who is the most important	15
+Why do so many people	15
+Would you like to know	15
+Are you happy with the	14
+At what age did you	14
+Can you give an example	14
+Do you feel that you	14
+Do you get along well	14
+Do you have any regrets	14
+Do you like to be	14
+Do you like to travel	14
+Do you prefer to watch	14
+Do you think children should	14
+Do you think scientists will	14
+Do you want to have	14
+Have you ever participated in	14
+Have you ever read a	14
+How do you know when	14
+How do you prefer to	14
+How do you think you	14
+How would life be different	14
+If you could choose would	14
+If you could give a	14
+If you don t believe	14
+If you don t know	14
+If you had been the	14
+If you had to live	14
+Is it better to have	14
+Is it possible to be	14
+What are the most popular	14
+What do you think he	14
+What don t you like	14
+What is your earliest memory	14
+What is your favorite animal	14
+What is your favorite day	14
+What is your least favorite	14
+What is your most treasured	14
+What kind of clothes do	14
+What s something you ve	14
+What s your favorite drink	14
+What would you do to	14
+Where do you think the	14
+Which countries do you think	14
+Who was your best friend	14
+Would you prefer to have	14
+Are you happy with your	13
+Can you be counted on	13
+Can you talk about four	13
+Do you consider yourself to	13
+Do you enjoy going to	13
+Do you have a big	13
+Do you have any bad	13
+Do you know any good	13
+Do you know how much	13
+Do you like to cook	13
+Do you play any sports	13
+Do you read your horoscope	13
+Do you think being a	13
+Do you think humans will	13
+Do you think the government	13
+Do you think we will	13
+Have you ever done any	13
+Have you ever seen or	13
+Have you ever witnessed a	13
+How do you react to	13
+If you could inherit a	13
+If you were asked to	13
+If you were to define	13
+If you were to receive	13
+If you were to select	13
+What are some advantages of	13
+What are some examples of	13
+What are three things you	13
+What are you most grateful	13
+What are your plans for	13
+What can we do to	13
+What do you say when	13
+What do you think causes	13
+What do you think makes	13
+What do you wish you	13
+What does it mean when	13
+What does your father do	13
+What is the best age	13
+What is the craziest thing	13
+What is your favorite season	13
+What is your favorite sport	13
+What is your favorite type	13
+What kind of person do	13
+What question would you like	13
+What s the best restaurant	13
+What s the longest you	13
+What s the name of	13
+What would you think of	13
+Where do you like to	13
+Where do you usually buy	13
+Where do you usually go	13
+Where s your favorite place	13
+Who is the person most	13
+Who was your favorite teacher	13
+Why do they call it	13
+Would you go to a	13
+Would you rather be rich	13
+Are you afraid of the	12
+Can you remember the first	12
+Can you tell about something	12
+Do you believe that you	12
+Do you consider yourself a	12
+Do you consider yourself an	12
+Do you ever try to	12
+Do you find it easy	12
+Do you have a credit	12
+Do you have any special	12
+Do you like to have	12
+Do you listen to music	12
+Do you prefer to eat	12
+Do you prefer to travel	12
+Do you think people with	12
+Do you think that having	12
+Do you think that most	12
+Do you think that one	12
+Do you think there will	12
+Do you think we ll	12
+Do you want to be	12
+Does your family have any	12
+Have you ever bought something	12
+Have you ever done anything	12
+Have you ever helped a	12
+Have you ever stolen anything	12
+How did you feel about	12
+How did you get there	12
+How long have you lived	12
+How many hours do you	12
+How often do you do	12
+How often do you feel	12
+How often do you visit	12
+If yes what is it	12
+If you could have an	12
+If you could say one	12
+If you had the power	12
+If you knew that in	12
+If you were given the	12
+If you were to write	12
+Is it easy for you	12
+Is there any difference between	12
+Is there something you ve	12
+Should we be softer or	12
+What are the top three	12
+What are you looking forward	12
+What colors do you think	12
+What dangers can be found	12
+What did you want to	12
+What do you dislike about	12
+What do you like and	12
+What do you usually eat	12
+What is the most interesting	12
+What is the strangest thing	12
+What is your favorite color	12
+What s the worst movie	12
+What s your favorite food	12
+What would you do with	12
+Where did you go to	12
+Why did you like it	12
+Why do you like them	12
+Why don t you like	12
+Why haven t you done	12
+Would you ever want to	12
+Would you like to learn	12
+Would you like to travel	12
+Would you prefer to work	12
+Would you rather be the	12
+Are you afraid of going	11
+Do you believe in any	11
+Do you believe in reincarnation	11
+Do you believe that there	11
+Do you ever have to	11
+Do you ever worry about	11
+Do you go to the	11
+Do you have pierced ears	11
+Do you like horror movies	11
+Do you like to try	11
+Do you still have it	11
+Do you think aliens are	11
+Do you think famous people	11
+Do you think people are	11
+Do you think some people	11
+Do you think that animals	11
+Do you think that children	11
+Do you think that dreams	11
+Do you think they should	11
+Do you think you d	11
+Do you think you ll	11
+Do you wish you were	11
+Given the ability to project	11
+Given the choice of anyone	11
+Have you ever been bitten	11
+Have you ever been discriminated	11
+Have you ever dreamt that	11
+Have you ever fallen asleep	11
+Have you ever lost a	11
+Have you ever played a	11
+Have you ever taken part	11
+Have you ever thought about	11
+Have you ever watched a	11
+How about in your country	11
+How can it be made	11
+How did it make you	11
+How do you make a	11
+How do you spend your	11
+How do you think your	11
+How far in advance do	11
+How many friends do you	11
+How many languages can you	11
+How many times a day	11
+How often do you doodle	11
+How often do you play	11
+If so what are they	11
+If so what was it	11
+If so what would you	11
+If so when did you	11
+If yes what do you	11
+If you could change your	11
+If you could ensure that	11
+If you could go on	11
+If you could have lived	11
+If you could have your	11
+If you could invent one	11
+If you could put a	11
+If you could relive one	11
+If you could travel back	11
+If you had to die	11
+If you had to eat	11
+If you just learned that	11
+If you were to give	11
+If your friends and acquaintances	11
+Is it important to be	11
+Is it important to have	11
+Is there anything that you	11
+It is sometimes claimed that	11
+What are some foods that	11
+What are some ways to	11
+What are the dangers of	11
+What changes would you like	11
+What did you do on	11
+What did you think of	11
+What do you prefer to	11
+What do your doodles usually	11
+What is the best most	11
+What is the last thing	11
+What is the most romantic	11
+What is the nicest thing	11
+What is the relationship between	11
+What is your favorite book	11
+What is your favorite time	11
+What kind of work do	11
+What s the hardest thing	11
+What s the most money	11
+What sort of things do	11
+What type of clothing do	11
+What would it be like	11
+What would you do or	11
+What would you most like	11
+When did you last yell	11
+When is it okay to	11
+When s the last time	11
+Where do you see yourself	11
+Where do you think you	11
+Who is your favorite author	11
+Why do people like to	11
+Why do you like him	11
+Would you like to do	11
+Your house containing everything you	11
+Are you a good cook	10
+Are you good at playing	10
+Can you tell about a	10
+Did you have a favorite	10
+Do women usually work after	10
+Do you believe that dreams	10
+Do you do anything to	10
+Do you feel your childhood	10
+Do you have any plans	10
+Do you have confidence in	10
+Do you have your own	10
+Do you know the names	10
+Do you know what a	10
+Do you know what the	10
+Do you like to listen	10
+Do you like your job	10
+Do you prefer to have	10
+Do you think cars should	10
+Do you think people from	10
+Do you think that all	10
+Do you think that we	10
+Do you think we can	10
+Do you think you need	10
+Do you think you re	10
+Do you use a mobile	10
+Do you wear the same	10
+Have you ever changed your	10
+Have you ever considered suicide	10
+Have you ever felt like	10
+Have you ever had your	10
+Have you ever made your	10
+Have you ever met someone	10
+Have you ever worked in	10
+Have you heard of any	10
+Have you heard of the	10
+How do you take care	10
+How do young people in	10
+How long have you known	10
+How many people do you	10
+How much do you know	10
+How often do you drink	10
+How often do you listen	10
+How old do you think	10
+If so how do you	10
+If so in what ways	10
+If you could do anything	10
+If you could have had	10
+If you could live forever	10
+If you found out that	10
+If you had to confess	10
+If you had to define	10
+If you had to identify	10
+If you were offered a	10
+If you were on a	10
+If you were to recall	10
+If you won the lottery	10
+Is it more important to	10
+Is it possible for women	10
+On what occasions do you	10
+What advice can you give	10
+What animals did you see	10
+What are five things you	10
+What are some things people	10
+What are the causes of	10
+What are the characteristics of	10
+What are the good and	10
+What are your biggest problems	10
+What country would you like	10
+What do you eat for	10
+What do you feel about	10
+What do you find most	10
+What do you have to	10
+What do you like least	10
+What do you most strive	10
+What do you think happens	10
+What do you think his	10
+What do you think was	10
+What have you learned from	10
+What is so important to	10
+What is something you would	10
+What is the best memory	10
+What is the hardest thing	10
+What is the most disgusting	10
+What is the most unusual	10
+What is your dream job	10
+What is your favorite fast	10
+What kind of food that	10
+What s your favorite season	10
+What s your idea of	10
+What should be done with	10
+What things do you think	10
+What were you doing when	10
+What would you say is	10
+Where is your favorite place	10
+Which do you think are	10
+Which fast food restaurants do	10
+Who do you think has	10
+Who do you think was	10
+Who do you usually go	10
+Who is your favorite musician	10
+Why are so many people	10
+Why are there so many	10
+Why did you buy it	10
+Why do don t you	10
+Why haven t you told	10
+Would you ever consider being	10
+Would you ever consider having	10
+Would you ever lie to	10
+Would you rather play a	10
+Would you want to go	10
+
+6-GRAMS
+------------------------
+When was the last time you	382
+What do you think of the	265
+What would you do if you	200
+What do you know about the	187
+What comes to mind when you	186
+What do you think is the	185
+If you had to name the	161
+What images spring to mind when	159
+What do you think of this	141
+Have you ever been to a	140
+What springs to mind when you	136
+What are the advantages and disadvantages	134
+What is the best thing about	127
+What do you think of people	99
+If you could change one thing	96
+If you had to choose the	92
+Would you like to be a	85
+What do you think about the	84
+Do you know anyone who has	83
+What are the good things and	82
+What is your idea of a	81
+If you were to name the	79
+Have you ever been in a	76
+What would you like to ask	74
+Does your country have good relations	70
+What is the best way to	68
+Why do you think this is	67
+What are the pros and cons	66
+What do you think are the	66
+What s the best way to	63
+What do you do when you	62
+<NUMBER> years from now Does your	60
+What do you like to do	59
+Do you know anyone who is	58
+How often do you go to	54
+If you had to pick the	53
+How old were you when you	51
+What questions would you like to	51
+How much does it cost to	48
+How much time do you spend	48
+Do you think there should be	46
+What do you do if you	44
+What do you think about this	43
+What s the difference between a	43
+What kind of music do you	42
+Why do you think some people	42
+Would you like to have a	42
+What would you do if your	41
+Would you like to work in	41
+If you could go back in	40
+What advice would you give to	39
+Have you ever been on a	38
+What does it mean to be	38
+How would you feel if you	36
+Do you think it is a	35
+Do you think there is a	35
+If you had to describe the	35
+What do you think when you	35
+What would the world be like	35
+How long does it take you	34
+What do you like most about	34
+Who do you think is the	34
+What was the last news story	33
+What is your favorite kind of	32
+Would you like to be famous	32
+What is your opinion of the	31
+How do you feel when you	30
+If you could have been the	30
+What is the difference between a	30
+What do you think are some	29
+Where is the best place to	29
+Do you think it s possible	28
+What do you like about your	28
+What do you think about people	28
+What kind of food do you	28
+What was the last thing you	28
+When you were a child what	28
+If you could change anything about	27
+At what age do you think	26
+What could you do on a	26
+What do you think of women	26
+What is the most important thing	26
+When was the first time you	26
+How would the world be different	25
+How would you feel if your	25
+What do you usually do on	25
+What kinds of things do you	25
+What would you like to do	25
+Can you tell me about your	24
+Do you think it s a	24
+How would you respond if your	24
+What do you think should be	24
+Would you like to go to	24
+Do you know someone who has	23
+Do you think it is important	23
+Do you think it is possible	23
+If not would you like to	23
+If you could have one person	23
+What are some things that you	23
+What are the best and worst	23
+What kind of people do you	23
+What would you like to be	23
+If you could keep only one	22
+If you could take a one	22
+If you had to choose one	22
+If you were stranded on a	22
+What do you think would be	22
+What do you understand by the	22
+What s the best thing about	22
+Would you like to live in	22
+Do you think it s important	21
+Have you ever had a dream	21
+How often do you eat out	21
+How would your life be different	21
+Is there such a thing as	21
+What do you associate with the	21
+What do you think this means	21
+What would you like to change	21
+Would you like to go on	21
+Do you think there are any	20
+How do you feel about the	20
+How do you feel about your	20
+If you could live anywhere in	20
+If you were to name a	20
+In what ways do you think	20
+What is one of your favorite	20
+Where would you like to go	20
+Would you like to work as	20
+Do you think it is okay	19
+If you had the chance to	19
+If you had the opportunity to	19
+What are you going to do	19
+What can be done to prevent	19
+What do you think of men	19
+What is something that you have	19
+What is the first thing you	19
+What s your favorite kind of	19
+What would be the advantages and	19
+Would you like to be an	19
+Can you think of any examples	18
+Do you believe in love at	18
+Do you know anybody who has	18
+Do you think that it is	18
+How often do you think about	18
+If you were to describe the	18
+What do you like best about	18
+What do you think you will	18
+What is your favorite thing to	18
+Why do you think so many	18
+Would you prefer to live in	18
+Are there any foods that you	17
+Do you think it would be	17
+Have you ever given money to	17
+If you had to cancel one	17
+What adjectives would you use to	17
+What are the qualities of a	17
+What is the most annoying thing	17
+What kind of things do you	17
+What was the last book you	17
+What would you like to know	17
+Do you ever give money to	16
+Do you think it is good	16
+Do you think it s okay	16
+Do you think there is too	16
+How often do you go shopping	16
+If so what do you think	16
+If you could have changed one	16
+If you had to eliminate one	16
+If you had to give up	16
+In your opinion what is the	16
+Was there ever a time when	16
+What can a parent do to	16
+What do you look for in	16
+What do you think of your	16
+What is the one thing you	16
+What would life be like without	16
+Would you like to work for	16
+Do you think it is better	15
+Have you ever been to an	15
+Have you ever broken a bone	15
+Have you or anyone you know	15
+How many hours a week do	15
+If so what did you do	15
+If you could wake up tomorrow	15
+If you had to choose a	15
+If you had to have one	15
+If you had to lose one	15
+To what extent do you think	15
+What do you want to do	15
+What is your opinion of this	15
+What s your all time favorite	15
+What sports do you like to	15
+What was the last movie you	15
+What will you do if you	15
+What would you do if someone	15
+Who is the most important person	15
+Are you a member of any	14
+Can you tell me about a	14
+Do you get along well with	14
+Do you think this is a	14
+Have you ever been the victim	14
+How do you feel if you	14
+How often do you get a	14
+How often do you see your	14
+If you could be invisible for	14
+If you could choose would you	14
+If you could have been any	14
+If you could have prevented one	14
+If you could spend one year	14
+If you don t believe in	14
+If you had to name a	14
+What animal do you think is	14
+What are the names of some	14
+What do you do in your	14
+What do you want to be	14
+What is more important to you	14
+What is the most dangerous thing	14
+What is your best memory from	14
+What is your favorite day of	14
+What is your favorite way to	14
+What kind of clothes do you	14
+What s the most important thing	14
+What was your favorite subject in	14
+Which do you think is the	14
+Would you be willing to give	14
+At what age do people usually	13
+Can you be counted on to	13
+Do you consider yourself to be	13
+Do you think that there is	13
+Do you think you are a	13
+Have you ever been to one	13
+Have you ever been to the	13
+Have you ever gone to a	13
+How much do you usually spend	13
+If you could go back to	13
+If you had to choose between	13
+If you had to describe your	13
+If you had to eliminate a	13
+If you were to be reincarnated	13
+If you were to have your	13
+What are some of the things	13
+What are you most grateful for	13
+What do you think it would	13
+What is the craziest thing you	13
+What is your favorite type of	13
+What is your most treasured memory	13
+What kind of person do you	13
+What question would you like to	13
+Where s your favorite place to	13
+Why do you think there are	13
+Can you think of any famous	12
+Do you have a credit card	12
+Do you think that some people	12
+Do you think there is any	12
+Do you think you would be	12
+Have you ever felt that you	12
+How do you feel when someone	12
+How important is it to you	12
+How long did it take you	12
+How often do you read the	12
+If you could give a single	12
+If you had to choose would	12
+If you had to select the	12
+If you were to die this	12
+Is there something you ve dreamed	12
+Should we be softer or stricter	12
+What animals do you think are	12
+What are some of the most	12
+What are some things you do	12
+What are you looking forward to	12
+What colors do you think look	12
+What do you like and dislike	12
+What do you think will happen	12
+What do you usually do when	12
+What is the weather like in	12
+What s the best restaurant you	12
+What s the best thing to	12
+What s the worst movie you	12
+What three adjectives would you use	12
+When you were a child did	12
+Why do you think people like	12
+Why haven t you done it	12
+Do you believe in ghosts or	11
+Do you know anyone that has	11
+Do you think it is right	11
+Do you think that one day	11
+Does it annoy you when people	11
+Given the choice of anyone in	11
+Have you ever been discriminated against	11
+Have you ever read a book	11
+Have you ever ridden a horse	11
+Have you ever seen a ghost	11
+Have you ever taken part in	11
+How can it be made less	11
+How did it make you feel	11
+How far in advance do you	11
+How long does it take to	11
+How much money did you spend	11
+How often do you get sick	11
+How would you like to be	11
+If you could make one person	11
+If you could read the mind	11
+If you had to change your	11
+If you had to name your	11
+If you had to spend one	11
+If you were to choose a	11
+If you were to name one	11
+If you were to pick the	11
+If you were to write a	11
+If your friends and acquaintances were	11
+Is it easy for you to	11
+What are some of the reasons	11
+What are some things that are	11
+What changes would you like to	11
+What do you think of a	11
+What do you think when your	11
+What do you value most in	11
+What do your doodles usually look	11
+What if anything do you think	11
+What is the best most important	11
+What is the strangest thing you	11
+What s the first thing you	11
+What s the longest you ve	11
+What s the most expensive thing	11
+What s the most money you	11
+What would life be like if	11
+What would you think of a	11
+When did you last yell at	11
+When s the last time you	11
+Which hobbies are the most popular	11
+Would you like to know the	11
+Would you like to take a	11
+Your house containing everything you own	11
+<NUMBER> years from now What do	10
+About how much do you spend	10
+Can you talk about three things	10
+Do you believe in any sort	10
+Do you feel your childhood was	10
+Do you give money to beggars	10
+Do you have any bad habits	10
+Do you know anyone who was	10
+Do you know anyone with a	10
+Do you know how to make	10
+Do you like to go to	10
+Do you live in a house	10
+Do you think cars should be	10
+Do you think it is easier	10
+Do you think the world will	10
+Do you think there ll be	10
+Do you use a mobile phone	10
+Does your family have any special	10
+Have you ever had a bad	10
+Have you ever known anyone who	10
+Have you ever made your own	10
+How do you take care of	10
+How do young people in your	10
+How many times have you been	10
+How much do you know about	10
+How much do you spend on	10
+How much do you think it	10
+How often do you check your	10
+How often do you listen to	10
+How would you react if you	10
+If you could ensure that your	10
+If you could have a secret	10
+If you could have witnessed one	10
+If you had the power to	10
+If you had to be a	10
+If you had to have sex	10
+If you had to marry someone	10
+If you knew that in one	10
+If you were able to live	10
+If you were to be a	10
+Is it better to be physically	10
+Is it possible for women to	10
+To what extent do you agree	10
+What are some of the advantages	10
+What are some of the good	10
+What are some things you should	10
+What are the good and bad	10
+What are your biggest problems with	10
+What could you do to improve	10
+What country would you like to	10
+What do you do when a	10
+What do you like to drink	10
+What do you like to eat	10
+What do you most strive for	10
+What do you remember about your	10
+What do you think about it	10
+What do you think about when	10
+What do you think he meant	10
+What do you think is important	10
+What do you think of it	10
+What do you think the next	10
+What do you usually eat for	10
+What is so important to you	10
+What is the most valuable thing	10
+What is the worst thing that	10
+What is your favorite fast food	10
+What is your favorite thing about	10
+What is your favorite time of	10
+What kind of food that you	10
+What s the name of your	10
+What would you do if a	10
+What would you like to see	10
+Where is your favorite place to	10
+Which do you think is more	10
+Who is the most famous person	10
+Why do you think it is	10
+Why haven t you told them	10
+Would you be willing to spend	10
+Would you ever consider being a	10
+Would you like to visit the	10
+Would you rather go to a	10
+Would you rather play a game	10
+<NUMBER> how well do you sing	9
+Are you afraid of getting old	9
+Do you always understand the reasons	9
+Do you believe that dreams can	9
+Do you find it easy to	9
+Do you have a good memory	9
+Do you have a lot of	9
+Do you have any plans to	9
+Do you have much free time	9
+Do you know of any websites	9
+Do you know of anyone who	9
+Do you know the names of	9
+Do you or anyone you know	9
+Do you think a vegetarian diet	9
+Do you think it is more	9
+Do you think people should be	9
+Do you think that the media	9
+Do you think the government should	9
+Do you think we will have	9
+Do you think you d be	9
+Given the ability to project yourself	9
+God were to grant you one	9
+Have you ever been bitten by	9
+Have you ever fallen in love	9
+Have you ever had a crush	9
+Have you ever participated in a	9
+Have you ever used the roaming	9
+Have you ever witnessed a crime	9
+How close and warm is your	9
+How do you get to school	9
+How do you like to spend	9
+How many siblings do you have	9
+How many times a day do	9
+How often do you eat fresh	9
+How often do you use the	9
+If you could be any animal	9
+If you could change something about	9
+If you could do any job	9
+If you could have only one	9
+If you could in retrospect change	9
+If you could invent one new	9
+If you could only keep one	9
+If you could say one sentence	9
+If you had to identify the	9
+If you were guaranteed honest responses	9
+If you were on death row	9
+If you were to be stranded	9
+If you were to identify the	9
+Is there anything you hope to	9
+What animals did you see there	9
+What are some of the ways	9
+What are some of your favorite	9
+What are some things people can	9
+What are some things you like	9
+What are your favorite kinds of	9
+What are your most compulsive habits	9
+What did you do last weekend	9
+What did you have for breakfast	9
+What do you have to do	9
+What do you like least about	9
+What do you need to do	9
+What do you think of that	9
+What do you think of them	9
+What do you think of when	9
+What do you think was the	9
+What do you think will be	9
+What is the greatest accomplishment of	9
+What is the most difficult thing	9
+What is the most expensive thing	9
+What is the worst thing about	9
+What kind of car do you	9
+What kinds of people do you	9
+What room in your house best	9
+What s something about yourself that	9
+What s the biggest lie you	9
+What sort of things do you	9
+What time do you wake up	9
+What would you say is the	9
+When was the last time your	9
+Where did you go for your	9
+Where did you go on your	9
+Where do you plan on going	9
+Where is a good place to	9
+Who do you know who has	9
+Who do you think was the	9
+Who is the most interesting person	9
+Who was your best friend in	9
+Who would you like to be	9
+Why do don t you think	9
+Why do you think there is	9
+Would it matter who was watching	9
+Would you be willing to go	9
+Would you rather live in a	9
+You are invited to a party	9
+<NUMBER> year old for the last	8
+Antarctic shelter with one other person	8
+Are you a price conscious shopper	8
+Are you good at saving money	8
+At a meal your friends start	8
+Do they try to be better	8
+Do you always lock your house	8
+Do you believe that there are	8
+Do you believe there is life	8
+Do you donate something money clothes	8
+Do you ever get tired of	8
+Do you feel ill at ease	8
+Do you find it difficult to	8
+Do you find it so hard	8
+Do you give something to homeless	8
+Do you have a lucky number	8
+Do you have an example of	8
+Do you have any brothers or	8
+Do you have any friends who	8
+Do you have more than one	8
+Do you judge others by higher	8
+Do you know anyone who does	8
+Do you know anyone who says	8
+Do you know anyone who suffers	8
+Do you know how much alcohol	8
+Do you know of any cases	8
+Do you know the difference between	8
+Do you know the history of	8
+Do you prefer fiction or non	8
+Do you prefer fiction or nonfiction	8
+Do you prefer to eat at	8
+Do you squeeze the toothpaste tube	8
+Do you think humans will ever	8
+Do you think it s acceptable	8
+Do you think it s better	8
+Do you think people should have	8
+Do you think that you are	8
+Do you think there are too	8
+Do you think there s a	8
+Do you think this is true	8
+Do you think your country is	8
+Do you usually remember your dreams	8
+Has anything ever happened to you	8
+Have you ever been in the	8
+Have you ever experienced an earthquake	8
+Have you ever met a famous	8
+Have you ever stayed at a	8
+How do you feel about this	8
+How do you know if a	8
+How do you know when you	8
+How important is money to you	8
+How long do you plan to	8
+How many children would you like	8
+How many days a week do	8
+How many friends do you have	8
+How many hours of sleep do	8
+How many languages can you speak	8
+How much do you feel in	8
+How much money do you have	8
+How often do you go out	8
+How would it change your life	8
+How would you react if a	8
+How would you recommend treating a	8
+How would your life change if	8
+If by sacrificing your life you	8
+If not do you think you	8
+If so how often do you	8
+If so would you like to	8
+If yes what food do you	8
+If you could be an animal	8
+If you could be instantly fluent	8
+If you could choose any six	8
+If you could choose the very	8
+If you could eliminate one habit	8
+If you could give one piece	8
+If you could have any music	8
+If you could have any room	8
+If you could have free unlimited	8
+If you could have lived through	8
+If you could have worked for	8
+If you could own your own	8
+If you could rid the world	8
+If you could suddenly possess an	8
+If you could teach your children	8
+If you could trade places with	8
+If you could travel back in	8
+If you had to assassinate one	8
+If you had to spend the	8
+If you were to complete the	8
+Is it better to have loved	8
+Is it important for you to	8
+Name three occupations that you could	8
+What are some common jobs for	8
+What are some jobs that you	8
+What are some of the benefits	8
+What are some things that define	8
+What are some things you can	8
+What are the advantages of being	8
+What are the characteristics of a	8
+What are the differences between a	8
+What are the differences between the	8
+What are the different kinds of	8
+What are the main causes of	8
+What are the most important things	8
+What are the responsibilities of a	8
+What can be done to reduce	8
+What dangers can be found in	8
+What did you want to be	8
+What do you admire most about	8
+What do you consider to be	8
+What do you do with it	8
+What do you eat for breakfast	8
+What do you like or dislike	8
+What do you prefer to be	8
+What do you think it means	8
+What do you think of body	8
+What do you think the world	8
+What do you think would happen	8
+What foods do you think are	8
+What if anything is too serious	8
+What is considered rude in your	8
+What is the average age of	8
+What is the best thing anyone	8
+What is the effect on the	8
+What is the meaning of writing	8
+What is the most embarrassing thing	8
+What is the most popular sport	8
+
+7-GRAMS
+------------------------
+What comes to mind when you hear	181
+What images spring to mind when you	159
+What springs to mind when you hear	136
+What are the advantages and disadvantages of	116
+What are the good things and bad	82
+What do you think of people who	77
+If you could change one thing about	76
+What do you think is the most	73
+Does your country have good relations with	70
+What is your idea of a typical	68
+When was the last time you went	68
+What are the pros and cons of	61
+<NUMBER> years from now Does your country	60
+What do you know about the geography	59
+What would you like to ask a	58
+What do you think of the idea	49
+What questions would you like to ask	47
+What would you do if you were	45
+What do you know about the history	44
+If you could go back in time	40
+If you had to name the one	37
+What do you think is the best	36
+What do you think of this quote	35
+How long does it take you to	33
+If you had to name the most	33
+What was the last news story you	33
+How often do you go to the	32
+What is the best thing about being	31
+When was the last time you had	30
+When was the last time you were	29
+Do you think it is a good	28
+What would you do if you saw	28
+When was the last time you got	27
+What could you do on a holiday	26
+What would you do if you found	25
+If you had to name the best	24
+If you were to name the most	24
+If you had to choose the best	23
+If you had to choose the worst	23
+What do you think when you see	23
+If you could take a one month	22
+What kind of music do you like	22
+What do you do if you can	21
+Do you think it s a good	20
+If you could live anywhere in the	20
+If you had to pick the worst	20
+What do you associate with the word	20
+What would the world be like without	20
+What kind of food do you like	19
+Do you believe in love at first	18
+Do you think it is important to	18
+Do you think there should be a	18
+How would the world be different if	18
+If you had to name the single	18
+What do you like to do in	18
+What do you think is the worst	18
+What do you think would be the	18
+What would you do if you could	18
+Do you know anyone who is a	17
+If you could change anything about the	17
+If you were to name the person	17
+What adjectives would you use to describe	17
+What do you think should be done	17
+What was the last book you read	17
+What would be the advantages and disadvantages	17
+What would you do if you had	17
+What would you like to know about	17
+Would you like to work as a	17
+Do you think it s important to	16
+Do you think there is too much	16
+Do you think there should be more	16
+If you could have changed one thing	16
+What can a parent do to childproof	16
+What do you like best about your	16
+What do you think about people who	16
+Would you like to go on a	16
+Would you like to work in a	16
+Do you think it s possible to	15
+Have you ever been in a car	15
+How many hours a week do you	15
+How would your life be different if	15
+What do you look for in a	15
+What do you think of women who	15
+What do you think you will be	15
+When was the last time you felt	15
+When you were a child what did	15
+Who do you think is the most	15
+Do you get along well with your	14
+Do you think this is a good	14
+Have you ever been the victim of	14
+How old were you when you first	14
+What do you think are the most	14
+What is your favorite day of the	14
+What was the last thing you bought	14
+What would you like to ask an	14
+Who is the most important person in	14
+Would you be willing to give up	14
+Do you think it is okay to	13
+Do you think it is possible to	13
+Have you ever given money to a	13
+If you had to lose one of	13
+If you had to pick the most	13
+What do you think about the idea	13
+What do you think it would be	13
+What do you think of people with	13
+What is the best thing about your	13
+What is the most dangerous thing in	13
+What is your favorite thing to do	13
+What kind of people do you like	13
+What question would you like to ask	13
+What would you like to change about	13
+Do you know anyone who has had	12
+Do you think it is better to	12
+How much do you usually spend each	12
+How would you respond if your child	12
+If you could change one thing in	12
+If you could give a single piece	12
+If you had to choose would you	12
+If you had to eliminate a single	12
+If you were stranded on a deserted	12
+If you were to be reincarnated as	12
+If you were to die this evening	12
+Should we be softer or stricter on	12
+What animal do you think is the	12
+What colors do you think look good	12
+What do you think of men who	12
+What do you think of this practice	12
+What do you understand by the term	12
+What is the weather like in your	12
+What s the best restaurant you ve	12
+What three adjectives would you use to	12
+What was your favorite subject in school	12
+What would you like to be doing	12
+Why do you think so many people	12
+Do you know someone who has been	11
+How can it be made less dangerous	11
+How old were you when you went	11
+If you could have one person from	11
+If you could read the mind of	11
+If you could spend one year in	11
+If your friends and acquaintances were willing	11
+Is there something you ve dreamed of	11
+What advice would you give to someone	11
+What are the best and worst things	11
+What are the qualities of a good	11
+What do you think are some of	11
+What do you think when your teacher	11
+What do your doodles usually look like	11
+What is the best most important thing	11
+What is the most annoying thing about	11
+What s the most money you have	11
+What sports do you like to watch	11
+What would the world be like if	11
+When did you last yell at someone	11
+When was the last time you ate	11
+Why do you think there are so	11
+Would you prefer to live in a	11
+Your house containing everything you own catches	11
